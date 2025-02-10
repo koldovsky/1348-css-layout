@@ -6,15 +6,14 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    /* outline: 1px solid red; */
 }
 
 :root {
     --text-color: black;
     --accent-color: #a5c7cf;
     --border-color: black;
-    scroll-behavior: smooth;
     font-family: "DotGothic16", serif;
+    scroll-behavior: smooth;
 }
 
 img {
@@ -26,3 +25,4 @@ img {
     max-width: 1200px;
     margin: auto;
 }
+
